@@ -28,9 +28,9 @@ int main() {
     scanf("%f ", &pib);
 
     printf("digite a quantidade de pontos turísticos; \n");
-    scanf ("%d " , &pontos_turisticos);
+    scanf("%d", &pontos_turisticos);
 
-    printf ("Estado: %s \n", &Estado);
+    printf("Estado: %s \n", &Estado);
     printf("população: %d \n", população);
     printf("area: %f \n", area);
     printf("pib: %f \n", pib);
